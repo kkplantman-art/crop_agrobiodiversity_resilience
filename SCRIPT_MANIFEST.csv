@@ -1,0 +1,36 @@
+order,script,purpose
+01,filter_country_level_panel.py,filter country level panel
+02,build_crop_diversity_metrics.py,build crop diversity metrics
+03,build_crop_diversity_metrics_country_level.py,build crop diversity metrics country level
+04,build_function_stability_metrics.py,build function stability metrics
+05,build_phase1c_model_panel.py,build phase1c model panel
+06,build_spei12_country_point_drought.py,build spei12 country point drought
+07,build_main_analysis_sample.py,build main analysis sample
+08,build_phase1d_drought_model_panel.py,build phase1d drought model panel
+09,phase1d_drought_interaction_diagnostics.py,phase1d drought interaction diagnostics
+10,build_crop_response_asynchrony_metrics.py,build crop response asynchrony metrics
+11,phase1e_fixed_effects_models.py,phase1e fixed effects models
+12,phase1e_mechanism_diagnostics.py,phase1e mechanism diagnostics
+13,phase1f_robustness_models.py,phase1f robustness models
+14,build_spei12_country_polygon_sample_drought.py,build spei12 country polygon sample drought
+15,combine_spei12_polygon_batches.py,combine spei12 polygon batches
+16,phase1g_polygon_spei_comparison.py,phase1g polygon spei comparison
+17,phase1g_polygon_spei_fixed_effects.py,phase1g polygon spei fixed effects
+18,build_alternative_anomaly_metrics.py,build alternative anomaly metrics
+19,phase1h_alternative_detrending_models.py,phase1h alternative detrending models
+20,build_spam2020_spei12_harvested_area_weights.py,build spam2020 spei12 harvested area weights
+21,build_spei12_spam_weighted_drought.py,build spei12 spam weighted drought
+22,phase1i_compare_climate_exposures.py,phase1i compare climate exposures
+23,phase1i_spam_weighted_spei_fixed_effects.py,phase1i spam weighted spei fixed effects
+24,phase1j_spam_weighted_spei_robustness.py,phase1j spam weighted spei robustness
+25,phase1j_summarize_spam_robustness.py,phase1j summarize spam robustness
+26,phase1j_spam_weighted_spei_alternative_detrending.py,phase1j spam weighted spei alternative detrending
+27,build_spam2020_water_context.py,build spam2020 water context
+28,phase1k_enhanced_robustness_models.py,phase1k enhanced robustness models
+29,build_fbs_nutrition_conversion_factors.py,build fbs nutrition conversion factors
+30,build_nutrition_weighted_outcomes.py,build nutrition weighted outcomes
+31,phase1l_nutrition_weighted_outcome_models.py,phase1l nutrition weighted outcome models
+32,build_economic_value_weighted_outcomes.py,build economic value weighted outcomes
+33,phase1m_economic_value_weighted_outcome_models.py,phase1m economic value weighted outcome models
+34,phase1n_mechanism_planning_diagnostics.py,phase1n mechanism planning diagnostics
+35,summarize_core_evidence.py,summarize core evidence
